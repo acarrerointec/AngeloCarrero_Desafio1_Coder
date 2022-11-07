@@ -1,4 +1,4 @@
-﻿/* Desafio 1 / Primero pasos
+﻿/* Desafio 1 Coder -  Primero pasos
  * @Autor: Angelo Carrero 
  * @mail: acmleonardy@gmail.com
  * @twitter: @anjerokata
